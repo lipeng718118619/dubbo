@@ -1,0 +1,3 @@
+com/lp/dubbo/ConsumerApplication.class
+com/lp/dubbo/controller/TestController.class
+com/lp/dubbo/provider/NotifyService.class
